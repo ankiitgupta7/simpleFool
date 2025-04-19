@@ -17,7 +17,7 @@ warnings.filterwarnings("ignore", category=UserWarning)
 target_class = 0
 mutation_rate = 0.05
 max_generations = 200000
-target_confidence = 0.9999999999999
+target_confidence = 0.99
 gif_save_interval = 10  # Save image every n generations for GIF
 
 # ----------------------------
